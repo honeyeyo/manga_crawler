@@ -1,0 +1,12 @@
+account:
+  VOLSKEY: "8ef023772c19c671a24ec1c5311c94ba163934246610751879"
+  VOLSESS: "1639342466"
+  VLIBSID: "l0k90hsjhmdnnag00k7edisbab"
+
+ua: "Mozilla/6.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+
+type: "mobi"
+
+download_path: "./download"
+
+daily_limit: 99999
